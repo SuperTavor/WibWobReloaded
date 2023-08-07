@@ -1,5 +1,5 @@
 # WibWob Reloaded
-WibWob Reloaded is a revival for Yo-Kai Watch Wibble Wobble, which closed doors for players on March 31st, 2018.
+WibWob Reloaded is a revival for Yo-Kai Watch Wibble Wobble, which closed doors to players on March 31st, 2018.
 
 ![Logo](https://cdn.discordapp.com/attachments/1137835393304231956/1138173557814349844/416_Sem_Titulo_20230807151505.png)
 
@@ -22,5 +22,4 @@ we are taking wibwob and turning it offline with epic smali editing
 No, this is a full revival of Yo-Kai Watch Wibble Wobble, not a translation for puni (but this project was started by some of the puni translation devs)
 
 # Made With 💙 by:
-Woganog
-SuperTavor (Komazura)
+Woganog and SuperTavor (Komazura)
