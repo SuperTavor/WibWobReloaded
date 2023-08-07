@@ -6,5 +6,5 @@
 ![Logo](https://cdn.discordapp.com/attachments/1137835393304231956/1138173557814349844/416_Sem_Titulo_20230807151505.png)
 
 # [FaQ](https://supertavor.github.io/WibWobReloaded/faq)
-# [Make a suggestion]
+# [Make a suggestion](https://forms.gle/XG9orZxm44bpaBJz8)
 # [About the devs](https://supertavor.github.io/WibWobReloaded/about)
