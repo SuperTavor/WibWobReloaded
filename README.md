@@ -1,6 +1,6 @@
 # WibWob Reloaded
 WibWob Reloaded is a revival for Yo-Kai Watch Wibble Wobble, which closed doors to players on March 31st, 2018.
-# [JOIN OUR DISCORD FOR DAILY UPDATES!](https://discord.gg/gJBdPn6ShJ) FOR DAILY UPDATES!
+# [JOIN OUR DISCORD FOR DAILY UPDATES!](https://discord.gg/gJBdPn6ShJ)
 
 ![Logo](https://cdn.discordapp.com/attachments/1137835393304231956/1138173557814349844/416_Sem_Titulo_20230807151505.png)
 
