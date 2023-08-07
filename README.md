@@ -1,5 +1,4 @@
-# WibWob Reloaded
-## WibWob Reloaded is a revival for Yo-Kai Watch Wibble Wobble, which shut down in 2018.
+# WibWob Reloaded is a revival for Yo-Kai Watch Wibble Wobble, which shut down in 2018.
 
 # [JOIN OUR DISCORD FOR DAILY UPDATES!](https://discord.gg/gJBdPn6ShJ)
 
