@@ -10,7 +10,7 @@
 <img src="https://yt3.googleusercontent.com/i20tnesg6jgSeUOQnhdtKd1F2f4J2v2AYGmmBgUiMzf7ZSEdg79JrpSE7Ply_uBS3dG7rX08SQ=s176-c-k-c0x00ffffff-no-rj" alt="komazuraPfp" width="100"/> 
 
 
-## I'm Komazura, I am a Yo-Kai Watch YouTuber,  a reverse engineer for Android apps and a game developer! I worked on the Puni Translation Project, the Yo-kai Watch 4 Multiplayer mod and more!
+## I'm SuperTavor (Komazura on YouTube) , I am a Yo-Kai Watch YouTuber,  a reverse engineer for Android apps and a game developer! I worked on the Puni Translation Project, the Yo-kai Watch 4 Multiplayer mod and more!
 
 
 
