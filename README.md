@@ -20,6 +20,6 @@
 
 
 # Made With 💙 by:
-Woganog and SuperTavor (Komazura)
+## Woganog and SuperTavor (Komazura)
 
 
