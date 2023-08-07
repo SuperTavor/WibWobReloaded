@@ -1,5 +1,5 @@
-[Go back to home page](https://supertavor.github.io/WibWobReloaded/)
 # About the devs
+[Go back to home page](https://supertavor.github.io/WibWobReloaded/)
 
 <img src="https://cdn.discordapp.com/avatars/858802916693114911/9e0d7760506048d52764a270da7d9376.png?size=4096" alt="woganogPfp" width="100"/> 
 
