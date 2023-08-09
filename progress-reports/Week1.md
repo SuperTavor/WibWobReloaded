@@ -1,4 +1,5 @@
 # Progress Report 8/9/2023
+[Go back to home page](https://supertavor.github.io/WibWobReloaded/)
 
 heya :) welcome to our first weekly progress report! these little progress reports are gonna summarize development for the week and thank contributors for their *epic* work!
 
