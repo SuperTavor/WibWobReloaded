@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_mode_done">Τέλος</string>
+    <string name="abc_action_bar_home_description">Πλοήγηση στην αρχική σελίδα</string>
+    <string name="abc_action_bar_up_description">Πλοήγηση προς τα επάνω</string>
+    <string name="abc_action_menu_overflow_description">Περισσότερες επιλογές</string>
+    <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_searchview_description_search">Αναζήτηση</string>
+    <string name="abc_search_hint">Αναζήτηση…</string>
+    <string name="abc_searchview_description_query">Ερώτημα αναζήτησης</string>
+    <string name="abc_searchview_description_clear">Διαγραφή ερωτήματος</string>
+    <string name="abc_searchview_description_submit">Υποβολή ερωτήματος</string>
+    <string name="abc_searchview_description_voice">Φωνητική αναζήτηση</string>
+    <string name="abc_activitychooserview_choose_application">Επιλέξτε κάποια εφαρμογή</string>
+    <string name="abc_activity_chooser_view_see_all">Προβολή όλων</string>
+    <string name="abc_shareactionprovider_share_with_application">Κοινή χρήση με %s</string>
+    <string name="abc_shareactionprovider_share_with">Κοινή χρήση με</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="abc_capital_on">ΕΝΕΡΓΟΠΟΙΗΣΗ</string>
+    <string name="abc_capital_off">ΑΠΕΝΕΡΓΟΠΟΙΗΣΗ</string>
+    <string name="messenger_send_button_text">Αποστολή</string>
+    <string name="com_facebook_like_button_not_liked">Μου αρέσει!</string>
+    <string name="com_facebook_like_button_liked">Σας αρέσει</string>
+    <string name="com_facebook_loginview_log_out_button">Αποσύνδεση</string>
+    <string name="com_facebook_loginview_log_in_button">Σύνδεση</string>
+    <string name="com_facebook_loginview_log_in_button_long">Σύνδεση μέσω Facebook</string>
+    <string name="com_facebook_loginview_logged_in_as">Έχει γίνει σύνδεση ως: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Έχει γίνει σύνδεση μέσω Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Αποσύνδεση</string>
+    <string name="com_facebook_loginview_cancel_action">Άκυρο</string>
+    <string name="com_facebook_loading">Φόρτωση…</string>
+    <string name="com_facebook_internet_permission_error_title">Σφάλμα AndroidManifest</string>
+    <string name="com_facebook_internet_permission_error_message">Για τη σύνδεση στο WebView απαιτείται σύνδεση INTERNET</string>
+    <string name="com_facebook_tooltip_default">Νέο! Έχετε τον έλεγχο - επιλέξτε ποιες πληροφορίες θέλετε να κοινοποιούνται στις εφαρμογές.</string>
+    <string name="com_facebook_image_download_unknown_error">Προέκυψε μη αναμενόμενο σφάλμα κατά τη λήψη μιας εικόνας.</string>
+    <string name="com_facebook_share_button_text">Κοινοποίηση</string>
+    <string name="com_facebook_send_button_text">Αποστολή</string>
+    <string name="com_facebook_device_auth_instructions">Επισκεφτείτε τον ιστότοπο &lt;b>facebook.com/device&lt;/b> από το smartphone ή τον υπολογιστή σας και πληκτρολογήστε αυτόν τον κωδικό:</string>
+</resources>

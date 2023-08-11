@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<launchingZoneList>
+    <launchingZone name="PLATFORMQA" address="http://alpha-platform-lnc.m.hangame.com:10080/hsp/lnc" isRealZone="false" locale="KR" />
+    <launchingZone name="ALPHA-KR" address="http://alpha-lnc.m.hangame.com:10080/hsp/lnc" isRealZone="false" locale="KR" />
+    <launchingZone name="ALPHA-US" address="http://alpha-lnc.usp.toastoven.net:10080/hsp/lnc" isRealZone="false" locale="GLOBAL" />
+    <launchingZone name="REAL-KR" address="http://lnc.m.hangame.com:10080/hsp/lnc" isRealZone="true" locale="KR" />
+    <launchingZone name="ALPHA-JP" address="http://119.235.233.104:10080/hsp/lnc" isRealZone="false" locale="JP" />
+    <launchingZone name="REAL-JP" address="http://lnc.m.hangame.co.jp:10080/hsp/lnc" isRealZone="true" locale="JP" />
+    <launchingZone name="REAL-TOAST" address="http://lnc.gb.hangame.com:10080/hsp/lnc" isRealZone="true" locale="GLOBAL" />
+    <launchingZone name="KAKAOGAME" address="http://lnc.gb.hangame.com:10080/hsp/lnc" isRealZone="true" locale="GLOBAL" />
+    <launchingZone name="REAL-US" address="http://lnc.usp.toastoven.net:10080/hsp/lnc" isRealZone="true" locale="GLOBAL" />
+    <launchingZone name="DEVELOPER-LNC" address="http://10.77.34.96:10080/hsp/lnc" isRealZone="false" locale="KR" />
+</launchingZoneList>

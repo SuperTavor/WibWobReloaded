@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:tag="hsp.main" android:background="@color/hsp.common.transparent" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/hsp.main.topbar" android:tag="hsp.main.topbar" android:layout_width="fill_parent" android:layout_height="40.0dip" android:layout_alignParentTop="true" />
+    <FrameLayout android:id="@id/hsp.main.gnb" android:tag="hsp.main.gnb" android:layout_width="fill_parent" android:layout_height="60.0dip" android:layout_alignParentBottom="true" />
+    <FrameLayout android:id="@id/hsp.main.content" android:tag="hsp.main.content" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/hsp.main.gnb" android:layout_below="@id/hsp.main.topbar" android:layout_alignWithParentIfMissing="true" />
+</RelativeLayout>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:tag="hsp.topbar.closebutton" android:background="@drawable/hsp_toast_topbar_button" android:clickable="true" android:layout_width="18.669983dip" android:layout_height="18.669983dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:gravity="center" android:background="@drawable/hsp_toast_navi_close_icon" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</LinearLayout>

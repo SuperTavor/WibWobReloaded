@@ -1,0 +1,146 @@
+!!brut.androlib.apk.ApkInfo
+apkFileName: base.apk
+doNotCompress:
+- resources.arsc
+- assets/debugbuild.txt
+- assets/fonts/S-Core-CoreSansDS55Bold.eft
+- assets/fonts/common.txt
+- assets/image/common/common.txt
+- png
+- assets/image/de/de.txt
+- assets/image/en/en.txt
+- assets/image/es/es.txt
+- assets/image/fr/fr.txt
+- assets/image/it/it.txt
+- assets/image/pt/pt.txt
+- assets/image/ru/ru.txt
+- assets/localize/de/de.txt
+- assets/localize/en/en.txt
+- assets/localize/es/es.txt
+- assets/localize/fr/fr.txt
+- assets/localize/it/it.txt
+- assets/localize/pt/pt.txt
+- assets/localize/ru/ru.txt
+- assets/noopt/common/common.txt
+- assets/noopt/de/de.txt
+- assets/noopt/en/en.txt
+- assets/noopt/es/es.txt
+- assets/noopt/fr/fr.txt
+- assets/noopt/it/it.txt
+- assets/noopt/pt/pt.txt
+- assets/noopt/ru/ru.txt
+- assets/sound/common/common.txt
+- assets/sound/common/ywp_bgm_title.m4
+- assets/sound/common/ywp_bgm_title.og
+- assets/sound/de/de.txt
+- assets/sound/de/ywp_se_001.m4
+- assets/sound/de/ywp_se_002.m4
+- assets/sound/de/ywp_voice_btl_2134000.m4
+- assets/sound/de/ywp_voice_btl_2152000.m4
+- assets/sound/de/ywp_voice_btl_2157000.m4
+- assets/sound/de/ywp_voice_btl_2159000.m4
+- assets/sound/de/ywp_voice_btl_2222000.m4
+- m4a
+- assets/sound/de/ywp_voice_btl_2597000.m4
+- assets/sound/de/ywp_voice_titlecall.m4
+- assets/sound/en/en.txt
+- assets/sound/en/ywp_se_001.m4
+- assets/sound/en/ywp_se_002.m4
+- assets/sound/en/ywp_voice_btl_2134000.m4
+- assets/sound/en/ywp_voice_btl_2152000.m4
+- assets/sound/en/ywp_voice_btl_2157000.m4
+- assets/sound/en/ywp_voice_btl_2159000.m4
+- assets/sound/en/ywp_voice_btl_2222000.m4
+- assets/sound/en/ywp_voice_btl_2597000.m4
+- assets/sound/en/ywp_voice_titlecall.m4
+- assets/sound/es/es.txt
+- assets/sound/es/ywp_se_001.m4
+- assets/sound/es/ywp_se_002.m4
+- assets/sound/es/ywp_voice_btl_2134000.m4
+- assets/sound/es/ywp_voice_btl_2152000.m4
+- assets/sound/es/ywp_voice_btl_2157000.m4
+- assets/sound/es/ywp_voice_btl_2159000.m4
+- assets/sound/es/ywp_voice_btl_2222000.m4
+- assets/sound/es/ywp_voice_btl_2597000.m4
+- assets/sound/es/ywp_voice_titlecall.m4
+- assets/sound/fr/fr.txt
+- assets/sound/fr/ywp_se_001.m4
+- assets/sound/fr/ywp_se_002.m4
+- assets/sound/fr/ywp_voice_btl_2134000.m4
+- assets/sound/fr/ywp_voice_btl_2152000.m4
+- assets/sound/fr/ywp_voice_btl_2157000.m4
+- assets/sound/fr/ywp_voice_btl_2159000.m4
+- assets/sound/fr/ywp_voice_btl_2222000.m4
+- assets/sound/fr/ywp_voice_btl_2597000.m4
+- assets/sound/fr/ywp_voice_titlecall.m4
+- assets/sound/it/it.txt
+- assets/sound/it/ywp_se_001.m4
+- assets/sound/it/ywp_se_002.m4
+- assets/sound/it/ywp_voice_btl_2134000.m4
+- assets/sound/it/ywp_voice_btl_2152000.m4
+- assets/sound/it/ywp_voice_btl_2157000.m4
+- assets/sound/it/ywp_voice_btl_2159000.m4
+- assets/sound/it/ywp_voice_btl_2222000.m4
+- assets/sound/it/ywp_voice_btl_2597000.m4
+- assets/sound/it/ywp_voice_titlecall.m4
+- assets/sound/pt/pt.txt
+- assets/sound/pt/ywp_se_001.m4
+- assets/sound/pt/ywp_se_002.m4
+- assets/sound/pt/ywp_voice_btl_2134000.m4
+- assets/sound/pt/ywp_voice_btl_2152000.m4
+- assets/sound/pt/ywp_voice_btl_2157000.m4
+- assets/sound/pt/ywp_voice_btl_2159000.m4
+- assets/sound/pt/ywp_voice_btl_2222000.m4
+- wav
+- assets/sound/pt/ywp_voice_btl_2597000.m4
+- assets/sound/pt/ywp_voice_titlecall.m4
+- assets/sound/ru/ru.txt
+- assets/sound/ru/ywp_se_001.m4
+- assets/sound/ru/ywp_se_002.m4
+- assets/sound/ru/ywp_voice_btl_2134000.m4
+- assets/sound/ru/ywp_voice_btl_2152000.m4
+- assets/sound/ru/ywp_voice_btl_2157000.m4
+- assets/sound/ru/ywp_voice_btl_2159000.m4
+- assets/sound/ru/ywp_voice_btl_2222000.m4
+- assets/sound/ru/ywp_voice_btl_2597000.m4
+- assets/sound/ru/ywp_voice_titlecall.m4
+- assets/youkai/common/2134000.ez
+- assets/youkai/common/2152000.ez
+- assets/youkai/common/2157000.ez
+- assets/youkai/common/2159000.ez
+- assets/youkai/common/2222000.ez
+- assets/youkai/common/common.txt
+- assets/youkai/de/de.txt
+- assets/youkai/en/2134000.ayd
+- assets/youkai/en/2152000.ayd
+- assets/youkai/en/2157000.ayd
+- assets/youkai/en/2159000.ayd
+- assets/youkai/en/2222000.ayd
+- assets/youkai/en/en.txt
+- assets/youkai/es/es.txt
+- assets/youkai/fr/fr.txt
+- assets/youkai/it/it.txt
+- assets/youkai/pt/pt.txt
+- assets/youkai/ru/ru.txt
+- res/raw/common.txt
+- mp4
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+resourcesAreCompressed: false
+sdkInfo:
+  minSdkVersion: '14'
+  targetSdkVersion: '23'
+sharedLibrary: false
+sparseResources: true
+unknownFiles:
+  org/apache/http/entity/mime/version.properties: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.8.1
+versionInfo:
+  versionCode: '4003'
+  versionName: 2.0.3

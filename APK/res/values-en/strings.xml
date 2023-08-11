@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hsp.lnc.status.alert.guide.check">Maintenance information</string>
+    <string name="hsp.lnc.status.alert.update.now">Update Now</string>
+    <string name="hsp.lnc.status.alert.later">Later</string>
+    <string name="hsp.lnc.status.alert.01">This game is unregistered.</string>
+    <string name="hsp.lnc.status.alert.02">"You must update your game for
+better service stability."</string>
+    <string name="hsp.lnc.status.alert.03">"You must update your game for
+better service stability."</string>
+    <string name="hsp.lnc.status.alert.04">The service is unavailable during a maintenance.</string>
+    <string name="hsp.lnc.status.alert.08">The service is unavailable during a maintenance.</string>
+    <string name="hsp.lnc.status.alert.10.playable">The service may partly unavailable during a maintenance.</string>
+    <string name="hsp.lnc.status.alert.10.not.playable">The service is unavailable during a maintenance.</string>
+    <string name="hsp.lnc.status.alert.20">Failed to update game resources due to incorrect client information. Please contact our customer service center.</string>
+    <string name="hsp.lnc.status.alert.91">You cannot use the service with this device.</string>
+    <string name="hsp.lnc.status.alert.92">Only some of the registered devices can be used.</string>
+    <string name="hsp.lnc.status.alert.98">"The service is closed.
+Thank you for your support."</string>
+    <string name="hsp.lnc.status.alert.99">"Failed to connect to the server due to an error.
+Please close the app and run it again."</string>
+    <string name="hsp.auth.bridge.description.main">Welcome, %1$s.</string>
+    <string name="hsp.auth.bridge.description.main.fortoast">Welcome.</string>
+    <string name="hsp.auth.login.hid.alert.punish">This ID is suspended. Please log in with a different ID.</string>
+    <string name="hsp.auth.login.hid.alert.withdraw">This account does not exist. Please log in with a different ID.</string>
+    <string name="hsp.auth.login.hid.alert.alreadymapped">The ID is already associated with a different Smart Hangame title. Please use a different ID.</string>
+    <string name="hsp.auth.login.id.alert.alreadymapped">The ID is already associated with a different title. Please use a different ID.</string>
+    <string name="hsp.toast.auth.login.hid.alert.alreadymapped">이미 다른 TOAST 게임 기록이 연결되어 있는 아이디입니다. 다른 아이디로 연결해 주세요.</string>
+    <string name="hsp.auth.punished.member.alert">The gameplay is restricted due to abnormal gameplay.</string>
+    <string name="hsp.auth.deactivated.member.alert">"Your account has been deactivated. Can't use this service anymore."</string>
+    <string name="hsp.auth.facebook.login.fail.alert.title">Facebook login failed.</string>
+    <string name="hsp.auth.facebook.login.fail.alert">Facebook authentication request failed.</string>
+    <string name="hsp.auth.check.adult">未成年の方は、アイテムを購入する前に保護者の許可が必要です。あなたは20歳未満ですか？</string>
+    <string name="hsp.auth.check.adult.permit">保護者の許可をもらいましたか？</string>
+    <string name="hsp.auth.check.adult.ok">はい</string>
+    <string name="hsp.auth.check.adult.no">いいえ</string>
+    <string name="hsp.toastnew.auth.welcome.agreement">Agree to TOAST Terms and Privacy Policy</string>
+    <string name="hsp.toastnew.auth.welcome.agreement.agree">Agree</string>
+    <string name="hsp.toastnew.auth.welcome.agreement.agree.gameterms">Agree to <u>Terms of Use</u>.</string>
+    <string name="hsp.toastnew.auth.welcome.agreement.agree.personalinfo">Agree to <u>Privacy Policy</u>.</string>
+    <string name="hsp.toastnew.auth.welcome.agreement.terms.attention">Attention</string>
+    <string name="hsp.toastnew.auth.welcome.agreement.terms.agree">Agree to Terms</string>
+    <string name="hsp.toastnew.auth.welcome.agreement.show.terms">TOAST Terms</string>
+    <string name="hsp.toastnew.auth.welcome.agreement.show">view more</string>
+    <string name="hsp.toastnew.auth.welcome.agreement.show.personalinfo">Privacy Policy</string>
+    <string name="hsp.toastnew.auth.welcome.agreement.alert">If there is an ID in use, please [Login with ID]. If you [Guest login], please keep in mind that game information will also be deleted should you delete the app.</string>
+    <string name="hsp.toastnew.auth.welcome.idp.login">Login with ID</string>
+    <string name="hsp.toastnew.auth.welcome.guest.login">Guest login</string>
+    <string name="hsp.toastnew.auth.welcome.alert.hid.login">Log in with my Facebook ID</string>
+    <string name="hsp.toastnew.auth.welcome.alert.hid.email.login">Email ID</string>
+    <string name="hsp.toastnew.auth.welcome.alert.hid.email.login.title">Login with PAYCO ID</string>
+    <string name="hsp.toastnew.auth.welcome.alert.hid.facebook.login.title">Login with Facebook ID</string>
+    <string name="hsp.toastnew.auth.welcome.alert.hid.description">You don’t have an ID? <u>Create email ID</u></string>
+    <string name="hsp.toastnew.auth.login.hid.alert.other.id.login">Log in as [%1$s] and play</string>
+    <string name="hsp.common.search">Search</string>
+    <string name="hsp.common.alert.title">Notice</string>
+    <string name="hsp.common.alert.positive.button">OK</string>
+    <string name="hsp.common.alert.negative.button">Cancel</string>
+    <string name="hsp.common.alert.retry.button">Resend</string>
+    <string name="hsp.common.close">Close</string>
+    <string name="hsp.common.send.twitter">Tweet</string>
+    <string name="hsp.common.send.facebook">Send</string>
+    <string name="hsp.common.detail">Details</string>
+    <string name="hsp.common.progress.message">Please wait a moment.</string>
+    <string name="hsp.common.backtogame">Return to the game</string>
+    <string name="hsp.common.gameinstalled">Do you want to run the app?</string>
+    <string name="hsp.common.gamenotinstalled">Do you want to download the app?</string>
+    <string name="hsp.common.gameplay">Play</string>
+    <string name="hsp.common.gamenotsupport">Do you want to visit the details page of the game?</string>
+    <string name="hsp.common.error.client.imageencoding">Failed to load the photo. Please try again.(0x%1$x)</string>
+    <string name="hsp.common.error.client.jsonparsing">Failed to retrieve game data. Please try again.(0x%1$x)</string>
+    <string name="hsp.common.error.client.outofmemory">Not enough memory available. Please close unused apps and launch the game again.</string>
+    <string name="hsp.common.error.client.unknown">Unknown error(0x%1$x)</string>
+    <string name="hsp.common.error.server.network">Failed to connect to the server. Please check the connection and try again.</string>
+    <string name="hsp.common.error.server.timeout">The network is unstable. Please try again later.</string>
+    <string name="hsp.common.error.server.unknown">Unknown error(0x%1$x)</string>
+    <string name="hsp.common.error.client.invalidparameter">The parameter(s) is incorrect.</string>
+    <string name="hsp.common.error.client.notinitialized">The system has not been initialized.</string>
+    <string name="hsp.common.error.client.notamainthread">The API can only be called by the main thread.</string>
+    <string name="hsp.common.error.launching.gameinfofail">The game data is incorrect.</string>
+    <string name="hsp.common.error.launching.clientversionfail">The client version is incorrect.</string>
+    <string name="hsp.common.error.launching.clientlatestversionexist">A newer version of the game has been detected.</string>
+    <string name="hsp.common.error.launching.hangameinspection">Hangame is under maintenance.</string>
+    <string name="hsp.common.error.launching.gameinspection">The game is under maintenance.</string>
+    <string name="hsp.common.error.launching.platforminspection">The platform is under maintenance.</string>
+    <string name="hsp.common.error.launching.blockeddevice">This device is blocked.</string>
+    <string name="hsp.common.error.launching.notusabledevice">You cannot use the service with this device.</string>
+    <string name="hsp.common.error.hsp.waitinglogin">Waiting for login to be completed.</string>
+    <string name="hsp.common.error.hsp.waitinglnc">Waiting for the LNC information.</string>
+    <string name="hsp.common.error.hsp.alreadylogin">You are already logged in.</string>
+    <string name="hsp.common.error.login.initializefail">Failed to initialize the game</string>
+    <string name="hsp.common.error.login.loginfail">Failed to log in</string>
+    <string name="hsp.common.error.login.mappingtohangameidfail">Failed to log in with Hangame ID</string>
+    <string name="hsp.common.error.login.resetdevicefail">Failed to initialize the device.</string>
+    <string name="hsp.common.error.login.usercanceled">Cancelled by user.</string>
+    <string name="hsp.common.error.login.server.notexistauthdata">No authentication information.</string>
+    <string name="hsp.common.error.login.server.writeauthdatafail">Unable to find authentication data.</string>
+    <string name="hsp.common.error.login.server.invalidusingapi">An API has been incorrectly used.</string>
+    <string name="hsp.common.error.login.server.invalidusingloginapi">The login API has been incorrectly used.</string>
+    <string name="hsp.common.error.login.server.invalidargument">The parameter(s) is incorrect.</string>
+    <string name="hsp.common.error.login.server.invalidsysteminfo">The system information is incorrect.</string>
+    <string name="hsp.common.error.client.internalerror">An internal error has occurred.</string>
+    <string name="hsp.common.error.msg.fiends.list">Failed to retrieve Friends List.</string>
+    <string name="hsp.common.error.msg.sendsmsfail">That number is invalid.</string>
+    <string name="hsp.profile.myprofile.photocrop.button.save">Save</string>
+    <string name="hsp.profile.myprofile.photocrop.button.cancel">Cancel</string>
+    <string name="hsp.profile.myprofile.photocrop.image.none">There are no photos</string>
+    <string name="hsp.profile.myprofile.photocrop.image.cannotload">Unable to retrieve the photo.</string>
+    <string name="hsp.profile.myprofile.photocrop.image.cannotcrop">Unable to truncate the photo.</string>
+    <string name="hsp.profile.myprofile.photocrop.image.cannotsave">Unable to save the photo.</string>
+    <string name="hsp.profile.myprofile.photocrop.image.save">The photo has been saved.</string>
+    <string name="hsp.profile.myprofile.photocrop.imageList.none">No photos available in the device</string>
+    <string name="hsp.common.error.autologin.message">自動認証に失敗しました。ゲームを開始するには、同じIDとパスワードを入力してください。</string>
+    <string name="hsp.litmus.find.rooting">"If your device is not a genuine product, game will not start.
+Please let us know from an inquiry form at application download page if you are not aware of this issue."</string>
+    <string name="hsp.litmus.find.cheating">Iniquitous tool(s) has been found. You cannot access the service unless you delete it.</string>
+    <string name="hsp.litmus.find.bluestack">Iniquitous tool(s) has been found. You cannot access the service unless you delete it.</string>
+    <string name="hsp.litmus.find.integrity">Iniquitous tool(s) has been found. You cannot access the service unless you delete it.</string>
+    <string name="hsp.litmus.log.agreement.title">Alert</string>
+    <string name="hsp.litmus.log.agreement.message">"Devices with iniquitous tools are denied access to this service.
+When such tools are detected, willl you permit us to collect App data of the tools?"</string>
+    <string name="hsp.litmus.log.agreement.permit">Permit</string>
+    <string name="hsp.litmus.log.agreement.refuse">Refuse</string>
+    <string name="hsp.sns.feed.title.twitter">New Tweet</string>
+    <string name="hsp.sns.feed.title.facebook">Facebook</string>
+    <string name="hsp.sns.feed.message.hint">Write</string>
+    <string name="hsp.sns.feed.alert.send.fail">There was an error posting your SNS.</string>
+    <string name="hsp.payment.err.msg.lib.init">Failed to initialize the buy library</string>
+    <string name="hsp.payment.err.msg.shopserver">An error occurred in the store server.</string>
+    <string name="hsp.payment.err.msg.purchase.canceled">You canceled your purchase.</string>
+    <string name="hsp.payment.err.msg.item.purchase.canceled">You canceled your item purchase.</string>
+    <string name="hsp.payment.err.msg.exist.purchase">You already have an active Payment window. Please close the app and try again if the problem continues.</string>
+    <string name="hsp.payment.err.msg.not.login">The transaction cannot be completed because the account is abnormally logged in. Please close the app and try again.</string>
+    <string name="hsp.payment.err.msg.exception">A temporary error has occurred. Please try again later.</string>
+    <string name="hsp.payment.err.msg.give.item.fail">An error occurred while adding items. Please contact our customer service center.</string>
+    <string name="hsp.payment.err.msg.network.timeout">The connection is unstable. Please try again later.</string>
+    <string name="hsp.payment.err.msg.unsupported.device">Sorry. The transaction cannot be completed because this device is unsupported.</string>
+    <string name="hsp.payment.err.msg.unsupported.google.checkout">This market does not support transactions. Please check your market information.</string>
+    <string name="hsp.payment.err.msg.purchase.successed">You successed your purchase!</string>
+    <string name="hsp.payment.err.msg.purchase.failed">You failed your purchase!</string>
+    <string name="hsp.payment.tstore.purchase.confirm">"${productName} (${price}won)
+Do you want to buy the selected items?"</string>
+    <string name="hsp.payment.kakao.purchase.canceled">You canceled or failed your purchase.</string>
+    <string name="hsp.payment.rakuten.purchase.confirm">"Do you want to buy the selected items?
+
+Please wait until the transaction is complete. This may take a while."</string>
+    <string name="hsp.payment.title.dialog.purchase">Payment</string>
+    <string name="hsp.payment.msg.confirm.purchase">"Do you want to buy the selected items?
+
+Please wait until the transaction is complete. This may take a while."</string>
+    <string name="hsp.payment.btn.yes">Yes</string>
+    <string name="hsp.payment.btn.no">No</string>
+    <string name="hsp.payment.btn.confirm">OK</string>
+    <string name="hsp.payment.btn.cancel">Cancel</string>
+    <string name="hsp.payment.msg.processing">Processing.</string>
+</resources>
