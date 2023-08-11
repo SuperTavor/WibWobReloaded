@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<configuartion-list>
+  <configuration key="HSP_LAUNCHING_ZONE" value="REAL-TOAST"/>
+  <configuration key="HSP_DEBUG_LEVEL" value="NONE"/>
+  <configuration key="HSP_RESEND_FAILED_DATA" value="true"/>
+  <configuration key="HSP_TIMEOUT_TCP" value="30"/>
+  <configuration key="HSP_TIMEOUT_HTTP" value="30"/>
+  <configuration key="HSP_LAUNCHING_REFRESH_TIMEINTERVAL" value="120"/>
+  <configuration key="HSP_HEARTBEAT_TIMEINTERVAL" value="120"/>
+  <configuration key="HSP_SHOW_UI_WELCOMEMESSAGE" value="false"/>
+  <configuration key="HSP_SHOW_UI_VERSIONCHECK" value="true"/>
+  <configuration key="HSP_SHOW_UI_MAINTENANCE" value="false"/>
+  <configuration key="HSP_SUSPEND_DELAY_TIME" value="120"/>
+  <configuration key="HSP_USE_AUTOSUSPEND" value="true"/>
+  <configuration key="HSP_ENFORCED_DEVICE_LOGIN" value="false"/>
+  <configuration key="HSP_USE_WEBVIEW_HARDWARE_ACCELERATE" value="true"/>
+  <configuration key="HSP_TOPBAR_COLOR" value="#ff1414"/>
+  <configuration key="HSP_LOGIN_IDP" value="toast"/>
+  <configuration key="HSP_ENFORCE_APP2WEB_FACEBOOK" value="false"/>
+  <configuration key="HSP_PAYMENT_USE_CONFIRM_POPUP" value="true"/>
+  <configuration key="HSP_PAYMENT_GAMBLING" value="false"/>
+  <configuration key="HSP_MARKET" value="KG"/>
+  <configuration key="HSP_PAYMENT_STORE_ID" value="GG"/>
+</configuartion-list>

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_mode_done">完了</string>
+    <string name="abc_action_bar_home_description">ホームへ移動</string>
+    <string name="abc_action_bar_up_description">上へ移動</string>
+    <string name="abc_action_menu_overflow_description">その他のオプション</string>
+    <string name="abc_toolbar_collapse_description">折りたたむ</string>
+    <string name="abc_action_bar_home_description_format">%1$s、%2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s、%2$s、%3$s</string>
+    <string name="abc_searchview_description_search">検索</string>
+    <string name="abc_search_hint">検索…</string>
+    <string name="abc_searchview_description_query">検索キーワード</string>
+    <string name="abc_searchview_description_clear">検索キーワードを削除</string>
+    <string name="abc_searchview_description_submit">検索キーワードを送信</string>
+    <string name="abc_searchview_description_voice">音声検索</string>
+    <string name="abc_activitychooserview_choose_application">アプリの選択</string>
+    <string name="abc_activity_chooser_view_see_all">すべて表示</string>
+    <string name="abc_shareactionprovider_share_with_application">%sと共有</string>
+    <string name="abc_shareactionprovider_share_with">共有</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="messenger_send_button_text">送信</string>
+    <string name="com_facebook_like_button_not_liked">いいね！</string>
+    <string name="com_facebook_like_button_liked">いいね！済み</string>
+    <string name="com_facebook_loginview_log_out_button">ログアウト</string>
+    <string name="com_facebook_loginview_log_in_button">ログイン</string>
+    <string name="com_facebook_loginview_log_in_button_long">Facebookでログイン</string>
+    <string name="com_facebook_loginview_logged_in_as">次のユーザーとしてログイン中: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Facebookを使用してログイン中</string>
+    <string name="com_facebook_loginview_log_out_action">ログアウト</string>
+    <string name="com_facebook_loginview_cancel_action">キャンセル</string>
+    <string name="com_facebook_loading">読み込み中…</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifestエラー</string>
+    <string name="com_facebook_internet_permission_error_message">WebViewログインにはINTERNET権限が必要です</string>
+    <string name="com_facebook_tooltip_default">新機能！アプリと共有する情報をコントロールできます。</string>
+    <string name="com_facebook_image_download_unknown_error">画像のダウンロード中に予期しないエラーが発生しました。</string>
+    <string name="com_facebook_share_button_text">シェア</string>
+    <string name="com_facebook_send_button_text">送信</string>
+    <string name="com_facebook_device_auth_instructions">スマートフォンまたはコンピュータから&lt;b>facebook.com/device&lt;/b>にアクセスし、次のコードを入力してください。</string>
+    <string name="hsp.lnc.status.alert.guide.check">メンテナンス案内</string>
+    <string name="hsp.lnc.status.alert.update.now">今すぐアップデート</string>
+    <string name="hsp.lnc.status.alert.later">後で</string>
+    <string name="hsp.lnc.status.alert.01">登録されていないゲームです。</string>
+    <string name="hsp.lnc.status.alert.02">"より安定されたサービスのために
+最新バージョンへのアップデートが必要です。"</string>
+    <string name="hsp.lnc.status.alert.03">"より安定されたサービスのために
+最新バージョンへのアップデートが必要です。"</string>
+    <string name="hsp.lnc.status.alert.04">メンテナンスのため、しばらくサービスの利用が制限されます。</string>
+    <string name="hsp.lnc.status.alert.08">メンテナンスのため、しばらくサービスの利用が制限されます。</string>
+    <string name="hsp.lnc.status.alert.10.playable">メンテナンスのため、一部のサービスの利用が制限される場合があります。</string>
+    <string name="hsp.lnc.status.alert.10.not.playable">メンテナンスのため、しばらくサービスの利用が制限されます。</string>
+    <string name="hsp.lnc.status.alert.20">クライアント情報が正しくないため、リソースのアップデートに失敗しました。ハンゲームにお問い合わせください。</string>
+    <string name="hsp.lnc.status.alert.91">サービスの利用が制限されたデバイスです。</string>
+    <string name="hsp.lnc.status.alert.92">登録された一部のデバイスでしかサービスを利用できません。</string>
+    <string name="hsp.lnc.status.alert.98">"サービスが終了されました。
+今までご利用いただき、誠にありがとうございます。"</string>
+    <string name="hsp.lnc.status.alert.99">"サーバーエラーのため、ゲーム接続に失敗しました。
+ゲームを終了してから、やり直してください。"</string>
+    <string name="hsp.auth.bridge.description.main">ようこそ。%1$sさん</string>
+    <string name="hsp.auth.bridge.description.main.fortoast">ようこそ。</string>
+    <string name="hsp.auth.login.hid.alert.punish">利用が制限されたIDです。他のIDでログインしてください。</string>
+    <string name="hsp.auth.login.hid.alert.withdraw">存在しないアカウントです。他のIDでログインしてください。</string>
+    <string name="hsp.auth.login.hid.alert.alreadymapped">既に他のスマートハンゲームの記録が登録されているIDです。他のIDで登録してください。</string>
+    <string name="hsp.auth.login.id.alert.alreadymapped">既に他のゲーム記録が登録されているIDです。他のIDで登録してください。</string>
+    <string name="hsp.toast.auth.login.hid.alert.alreadymapped">既に他のゲーム記録が登録されているIDです。他のIDで登録してください。</string>
+    <string name="hsp.auth.punished.member.alert">禁止されている行為が確認され、利用停止されました。</string>
+    <string name="hsp.auth.deactivated.member.alert">あなたのアカウントは無効になっている。もう、このサービスを使用することはできません。</string>
+    <string name="hsp.auth.facebook.login.fail.alert.title">Facebook login failed.</string>
+    <string name="hsp.auth.facebook.login.fail.alert">Facebook authentication request failed.</string>
+    <string name="hsp.auth.check.adult">未成年の方は、アイテムを購入する前に保護者の許可が必要です。あなたは20歳未満ですか？</string>
+    <string name="hsp.auth.check.adult.permit">保護者の許可をもらいましたか？</string>
+    <string name="hsp.auth.check.adult.ok">はい</string>
+    <string name="hsp.auth.check.adult.no">いいえ</string>
+    <string name="hsp.toastnew.auth.welcome.agreement">TOAST利用規約、個人情報収集および利用方針に同意します。</string>
+    <string name="hsp.toastnew.auth.welcome.agreement.agree">同意する</string>
+    <string name="hsp.toastnew.auth.welcome.agreement.agree.gameterms"><u>利用規約</u>に同意します。</string>
+    <string name="hsp.toastnew.auth.welcome.agreement.agree.personalinfo"><u>プライバシーポリシー</u>に同意します。</string>
+    <string name="hsp.toastnew.auth.welcome.agreement.terms.attention">Attention</string>
+    <string name="hsp.toastnew.auth.welcome.agreement.terms.agree">利用規約に同意</string>
+    <string name="hsp.toastnew.auth.welcome.agreement.show.terms">TOAST利用規約はこちら</string>
+    <string name="hsp.toastnew.auth.welcome.agreement.show">もっと見る</string>
+    <string name="hsp.toastnew.auth.welcome.agreement.show.personalinfo">個人情報収集および利用方針はこちら</string>
+    <string name="hsp.toastnew.auth.welcome.agreement.alert">"使用中のIDがある場合は、[IDでログイン]してください。
+ [ゲストとしてログイン]した場合、アプリを削除するとゲームの情報も削除されますのでご注意ください。"</string>
+    <string name="hsp.toastnew.auth.welcome.idp.login">IDログイン</string>
+    <string name="hsp.toastnew.auth.welcome.guest.login">ゲストとしてログイン</string>
+    <string name="hsp.toastnew.auth.welcome.alert.hid.login">ハンゲームIDでログイン</string>
+    <string name="hsp.toastnew.auth.welcome.alert.hid.email.login">電子メールIDでログイン</string>
+    <string name="hsp.toastnew.auth.welcome.alert.hid.email.login.title">PAYCO IDでログイン</string>
+    <string name="hsp.toastnew.auth.welcome.alert.hid.facebook.login.title">FacebookのIDでログイン</string>
+    <string name="hsp.toastnew.auth.welcome.alert.hid.description">IDをお持ちでない方は、<u>電子メールで新規登録を行ってください。</u></string>
+    <string name="hsp.toastnew.auth.login.hid.alert.other.id.login">[%1$s]ですぐ始める</string>
+    <string name="hsp.common.search">検索</string>
+    <string name="hsp.common.alert.title">お知らせ</string>
+    <string name="hsp.common.alert.positive.button">OK</string>
+    <string name="hsp.common.alert.negative.button">キャンセル</string>
+    <string name="hsp.common.alert.retry.button">再度送信</string>
+    <string name="hsp.common.close">閉じる</string>
+    <string name="hsp.common.send.twitter">ツイート</string>
+    <string name="hsp.common.send.facebook">投稿する</string>
+    <string name="hsp.common.detail">詳細</string>
+    <string name="hsp.common.progress.message">しばらくお待ちください…</string>
+    <string name="hsp.common.backtogame">ゲームに戻ります。</string>
+    <string name="hsp.common.gameinstalled">このアプリを起動しますか？</string>
+    <string name="hsp.common.gamenotinstalled">このアプリをダウンロードしますか？</string>
+    <string name="hsp.common.gameplay">起動</string>
+    <string name="hsp.common.gamenotsupport">"このゲームのAndroid版は、まだオープンしていません。
+ゲームの詳細情報ページに移動しますか？"</string>
+    <string name="hsp.common.error.client.imageencoding">画像の読み込みに失敗しました。やり直してください。(0x%1$x)</string>
+    <string name="hsp.common.error.client.jsonparsing">情報の読み込みに失敗しました。やり直してください。(0x%1$x)</string>
+    <string name="hsp.common.error.client.outofmemory">起動中のアプリが多数のため、メモリーが不足しています。使わないアプリを終了して、やり直してください。</string>
+    <string name="hsp.common.error.client.unknown">原因不明のエラー(0x%1$x)</string>
+    <string name="hsp.common.error.server.network">サーバー接続に失敗しました。接続状態をご確認の上、やり直してください。</string>
+    <string name="hsp.common.error.server.timeout">接続の状態がよくありません。しばらくしてから、やり直してください。</string>
+    <string name="hsp.common.error.server.unknown">原因不明のエラー(0x%1$x)</string>
+    <string name="hsp.common.error.client.invalidparameter">パラメーターが正しくありません。</string>
+    <string name="hsp.common.error.client.notinitialized">システムが初期化されていません。</string>
+    <string name="hsp.common.error.client.notamainthread">このAPIは、メインスレッドでだけ呼び出すことができます。</string>
+    <string name="hsp.common.error.launching.gameinfofail">ゲーム情報が正しくありません。</string>
+    <string name="hsp.common.error.launching.clientversionfail">クライアントバージョンが正しくありません。</string>
+    <string name="hsp.common.error.launching.clientlatestversionexist">最新バージョンが発見されました。</string>
+    <string name="hsp.common.error.launching.hangameinspection">ハンゲームのメンテナンス中です。</string>
+    <string name="hsp.common.error.launching.gameinspection">ゲームのメンテナンス中です。</string>
+    <string name="hsp.common.error.launching.platforminspection">フラットフォームのメンテナンス中です。</string>
+    <string name="hsp.common.error.launching.blockeddevice">遮断されたデバイスです。</string>
+    <string name="hsp.common.error.launching.notusabledevice">使用できないデバイスです。</string>
+    <string name="hsp.common.error.hsp.waitinglogin">ログイン完了を待っています。</string>
+    <string name="hsp.common.error.hsp.waitinglnc">LNC情報を待っています。</string>
+    <string name="hsp.common.error.hsp.alreadylogin">既にログインしています。</string>
+    <string name="hsp.common.error.login.initializefail">初期化失敗</string>
+    <string name="hsp.common.error.login.loginfail">ログイン失敗</string>
+    <string name="hsp.common.error.login.mappingtohangameidfail">ハンゲームIDマッピングに失敗しました。</string>
+    <string name="hsp.common.error.login.resetdevicefail">デバイスの初期化に失敗しました。</string>
+    <string name="hsp.common.error.login.usercanceled">ユーザーからキャンセルされました。</string>
+    <string name="hsp.common.error.login.server.notexistauthdata">認証情報がありません。</string>
+    <string name="hsp.common.error.login.server.writeauthdatafail">認証データが見つかりません。</string>
+    <string name="hsp.common.error.login.server.invalidusingapi">APIの使用が正しくありません。</string>
+    <string name="hsp.common.error.login.server.invalidusingloginapi">ログインAPIの使用が正しくありません。</string>
+    <string name="hsp.common.error.login.server.invalidargument">パラメーターが正しくありません。</string>
+    <string name="hsp.common.error.login.server.invalidsysteminfo">システム情報が正しくありません。</string>
+    <string name="hsp.common.error.client.internalerror">内部エラーです。</string>
+    <string name="hsp.common.error.msg.fiends.list">フレンド情報の読み込みに失敗しました。</string>
+    <string name="hsp.common.error.msg.sendsmsfail">送信できない電話番号です。</string>
+    <string name="hsp.profile.myprofile.photocrop.button.save">保存</string>
+    <string name="hsp.profile.myprofile.photocrop.button.cancel">キャンセル</string>
+    <string name="hsp.profile.myprofile.photocrop.image.none">端末内に保存された画像がありません。</string>
+    <string name="hsp.profile.myprofile.photocrop.image.cannotload">画像を読み込めませんでした。</string>
+    <string name="hsp.profile.myprofile.photocrop.image.cannotcrop">画像を編集できませんでした。</string>
+    <string name="hsp.profile.myprofile.photocrop.image.cannotsave">写真を登録できませんでした。</string>
+    <string name="hsp.profile.myprofile.photocrop.image.save">写真を登録しました。</string>
+    <string name="hsp.profile.myprofile.photocrop.imageList.none">デバイスに保存されている写真がありません。</string>
+    <string name="hsp.common.error.autologin.message">自動認証に失敗しました。ゲームを開始するには、同じIDとパスワードを入力してください。</string>
+    <string name="hsp.litmus.find.rooting">"お使いのスマートフォン端末が正規の状態ではない場合は、ゲームを起動できません。
+端末の状態にお心当たりが無い場合は、アプリダウンロードページの 問い合わせフォームよりお問い合わせください。"</string>
+    <string name="hsp.litmus.find.cheating">不正行為を行うためのツールが検出されました。該当ツールが削除されるまで本サービスは利用できません。</string>
+    <string name="hsp.litmus.find.bluestack">不正行為を行うためのツールが検出されました。該当ツールが削除されるまで本サービスは利用できません。</string>
+    <string name="hsp.litmus.find.integrity">不正行為を行うためのツールが検出されました。該当ツールが削除されるまで本サービスは利用できません。</string>
+    <string name="hsp.litmus.log.agreement.title">ご注意！</string>
+    <string name="hsp.litmus.log.agreement.message">端末内に当社サービスに対する不正行為を行うためのツールがある場合、本サービスをご利用いただけません。また、該当ツールが端末内にある場合、該当ツールのアプリ情報を取得いたします。</string>
+    <string name="hsp.litmus.log.agreement.permit">許可する</string>
+    <string name="hsp.litmus.log.agreement.refuse">許可しない</string>
+    <string name="hsp.sns.feed.title.twitter">新しいツイート</string>
+    <string name="hsp.sns.feed.title.facebook">Facebook</string>
+    <string name="hsp.sns.feed.message.hint">ひとこと</string>
+    <string name="hsp.sns.feed.alert.send.fail">連携に失敗し、送信ができませんでした。</string>
+    <string name="hsp.payment.err.msg.lib.init">購入ライブラリ初期化失敗</string>
+    <string name="hsp.payment.err.msg.shopserver">ショップサーバからエラー発生</string>
+    <string name="hsp.payment.err.msg.purchase.canceled">ご購入がキャンセルされました。</string>
+    <string name="hsp.payment.err.msg.item.purchase.canceled">アイテム購入がキャンセルされました。</string>
+    <string name="hsp.payment.err.msg.exist.purchase">他の決済が進行中です。既存の画面を閉じて再度お試しください。(この問題が続く場合、アプリを完全に終了してから再起動してください。)</string>
+    <string name="hsp.payment.err.msg.not.login">"ご購入を正常に処理できませんでした。
+お手数ですがアプリを終了してから再度お試しください。"</string>
+    <string name="hsp.payment.err.msg.exception">現在サーバに問題があります。しばらくしてから再度お試しください。</string>
+    <string name="hsp.payment.err.msg.give.item.fail">"アイテムを配布できませんでした。
+お手数ですがお問い合わせフォームよりお問い合わせください。"</string>
+    <string name="hsp.payment.err.msg.network.timeout">"ネットワーク接続が不安定です。
+しばらくしてから再度お試しください。"</string>
+    <string name="hsp.payment.err.msg.unsupported.device">申し訳ございません。ご使用のデバイスはサポート対象外となるため、お支払い手続きを行えません。</string>
+    <string name="hsp.payment.err.msg.unsupported.google.checkout">ご利用のマーケットではお支払いできません。マーケット情報をご確認の上、ご利用ください。</string>
+    <string name="hsp.payment.err.msg.purchase.successed">充值成功!</string>
+    <string name="hsp.payment.err.msg.purchase.failed">充值失敗!</string>
+    <string name="hsp.payment.tstore.purchase.confirm">${productName}を${price}で購入しますか？</string>
+    <string name="hsp.payment.kakao.purchase.canceled">You canceled or failed your purchase.</string>
+    <string name="hsp.payment.rakuten.purchase.confirm">${productName}を${price}円で購入しますか？</string>
+    <string name="hsp.payment.title.dialog.purchase">決済する</string>
+    <string name="hsp.payment.msg.confirm.purchase">"選択した商品を購入しますか？
+
+購入処理に時間がかかる場合があります。決済が完了されるまで、しばらくお待ちください。"</string>
+    <string name="hsp.payment.btn.yes">はい</string>
+    <string name="hsp.payment.btn.no">いいえ</string>
+    <string name="hsp.payment.btn.confirm">確認</string>
+    <string name="hsp.payment.btn.cancel">キャンセル</string>
+    <string name="hsp.payment.msg.processing">処理しています。</string>
+    <string name="deliver_dialog_title">アイテム配布失敗</string>
+    <string name="deliver_dialog_message">"決済は成功しましたが、
+アイテム配布に失敗しました。
+通信環境の良い場所でリトライ
+ボタンを押して下さい。"</string>
+    <string name="deliver_dialog_retry_button">リトライ</string>
+    <string name="deliver_dialog_cancel_button">キャンセル</string>
+    <string name="deliver_dialog_ok_button">ＯＫ</string>
+    <string name="deliver_mail_subject">アイテム配布依頼</string>
+    <string name="deliver_mail_text">"これは自動生成されたアイテム配布依頼メールです。
+このまま送信ボタンを押して下さい。"</string>
+    <string name="deliver_mail_intent_title">GMailを選択してください</string>
+    <string name="error_message_get_transaction_id">"トランザクションＩＤ発行処理に失敗しました。
+通信環境の良い場所でもう一度お試し下さい。"</string>
+    <string name="error_message_item_deliver">"決済は成功しましたが、
+アイテム配布に失敗しました。"</string>
+    <string name="error_message_in_app_billing">購入処理に失敗しました。もう一度購入をお試し下さい。</string>
+    <string name="error_message_user_canceled">購入がキャンセルされました。</string>
+    <string name="error_message_item_unavailable">購入出来ないアイテムです。</string>
+    <string name="error_message_billing_unsupported">"端末はアプリ内での購入サービスがご利用いただけません。
+Google PlayのバージョンまたはMyAppsアプリのバージョンをご確認下さい。"</string>
+    <string name="error_message_signature_verify">デジタル署名検証処理が失敗しました。</string>
+    <string name="error_message_item_deliver_cancel">"アイテムの配布は完了していません。
+通信環境の改善後、お問い合わせをご利用ください。"</string>
+    <string name="hsp.common.qa">問い合わせ</string>
+</resources>

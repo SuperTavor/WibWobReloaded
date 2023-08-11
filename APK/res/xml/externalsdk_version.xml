@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<version-list>
+    <module name="HSPSDK" version="2.49.0" />
+    <module name="FacebookSDK" version="v3.20.0" />
+    <module name="GooglePlayLib" version="v8.1(8115000)" />
+    <module name="android-support-v4" version="v23.0.1" />
+    <module name="NaverOAuthLib" version="v4.1.3" />
+    <module name="LineSDK" version="v0.7.1.162" />
+    <module name="KakaoSDK(IAP)" version="v1.3.0 (gs v0.6)" />
+    <module name="TStoreIap" version="v15.01.00" />
+    <module name="NaverIap" version="v1.4" />
+    <module name="OllehIap" version="v2.0.4" />
+    <module name="AmazonIap" version="v2.0.61" />
+    <module name="Nelo" version="v0.7.7" />
+    <module name="Litmus" version="v21" />
+    <module name="ToastMarketingCampaign" version="v0.6" />
+    <module name="BDGameSDK" version="v3.2.0" />
+    <module name="_37GameSDK" version="v2.1.1" />
+    <module name="FlymeSDK" version="v2.1" />
+    <module name="BilibiliGameSDK" version="v1.4.2" />
+    <module name="_360GameSDK" version="v1.1.6" />
+    <module name="UCGameSDK" version="v3.5.3.1" />
+    <module name="XiaomiSDK" version="v4.2.5" />
+</version-list>

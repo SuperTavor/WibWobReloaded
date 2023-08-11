@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:tag="hsp.topbar.sendbutton" android:layout_width="58.95999dip" android:layout_height="32.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:tag="hsp.topbar.sendbutton.enable" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:textSize="13.329987dip" android:textColor="@color/hsp.topbar.closebutton" android:gravity="center" android:id="@id/hsp.topbar.sendbutton.text" android:tag="hsp.topbar.sendbutton.text" android:background="@color/hsp.common.orange" android:layout_width="58.95999dip" android:layout_height="32.0dip" android:text="fdsa" android:layout_alignParentRight="true" />
+    </RelativeLayout>
+    <RelativeLayout android:tag="hsp.topbar.sendbutton.disable" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:textSize="13.329987dip" android:textColor="@color/hsp.topbar.sendbutton.disable" android:gravity="center" android:id="@id/hsp.topbar.sendbutton.text.disable" android:tag="hsp.topbar.sendbutton.text.disable" android:background="@color/hsp.topbar.sendbutton.background.disable" android:layout_width="58.95999dip" android:layout_height="32.0dip" android:layout_alignParentRight="true" />
+    </RelativeLayout>
+</RelativeLayout>

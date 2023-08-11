@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:tag="hsp.topbar" android:background="@color/hsp.topbar.background" android:layout_width="fill_parent" android:layout_height="40.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="35.329987dip" android:layout_marginLeft="10.0dip">
+        <FrameLayout android:id="@id/hsp.topbar.button" android:tag="hsp.topbar.button" android:layout_width="60.299988dip" android:layout_height="fill_parent" android:layout_alignParentRight="true" />
+        <TextView android:textSize="17.0dip" android:textColor="@color/hsp.topbar.title" android:ellipsize="end" android:gravity="center" android:id="@id/hsp.topbar.title" android:tag="hsp.topbar.title" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="4.0dip" android:layout_marginRight="10.0dip" android:singleLine="true" android:layout_toLeftOf="@id/hsp.topbar.button" />
+    </RelativeLayout>
+    <ImageView android:tag="hsp.topbar.bottomline" android:background="@color/hsp.topbar.bottomline.hangame" android:layout_width="fill_parent" android:layout_height="4.669983dip" />
+</LinearLayout>

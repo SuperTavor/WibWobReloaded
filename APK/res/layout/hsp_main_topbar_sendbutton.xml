@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:tag="hsp.topbar.sendbutton" android:layout_width="60.299988dip" android:layout_height="35.329987dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:tag="hsp.topbar.sendbutton.enable" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <RelativeLayout android:orientation="horizontal" android:id="@id/hsp.topbar.sendbutton.text.layout" android:layout_width="59.629974dip" android:layout_height="34.659973dip" android:layout_alignParentRight="true">
+            <TextView android:textSize="13.329987dip" android:textColor="@color/hsp.topbar.closebutton" android:gravity="center" android:id="@id/hsp.topbar.sendbutton.text" android:tag="hsp.topbar.sendbutton.text" android:background="@color/hsp.topbar.sendbutton.background" android:layout_width="58.95999dip" android:layout_height="33.98999dip" android:layout_alignParentRight="true" />
+            <ImageView android:background="@color/hsp.topbar.sendbutton.line" android:layout_width="0.6700001dip" android:layout_height="fill_parent" android:layout_toLeftOf="@id/hsp.topbar.sendbutton.text" />
+            <ImageView android:background="@color/hsp.topbar.sendbutton.line" android:layout_width="fill_parent" android:layout_height="0.6700001dip" android:layout_below="@id/hsp.topbar.sendbutton.text" />
+        </RelativeLayout>
+        <ImageView android:background="@color/hsp.common.black" android:layout_width="0.6700001dip" android:layout_height="fill_parent" android:layout_toLeftOf="@id/hsp.topbar.sendbutton.text.layout" />
+        <ImageView android:background="@color/hsp.common.black" android:layout_width="fill_parent" android:layout_height="0.6700001dip" android:layout_below="@id/hsp.topbar.sendbutton.text.layout" />
+    </RelativeLayout>
+    <RelativeLayout android:tag="hsp.topbar.sendbutton.disable" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <RelativeLayout android:orientation="horizontal" android:id="@id/hsp.topbar.sendbutton.text.layout.disable" android:layout_width="59.629974dip" android:layout_height="34.659973dip" android:layout_alignParentRight="true">
+            <TextView android:textSize="13.329987dip" android:textColor="@color/hsp.topbar.sendbutton.disable" android:gravity="center" android:id="@id/hsp.topbar.sendbutton.text.disable" android:tag="hsp.topbar.sendbutton.text.disable" android:background="@color/hsp.topbar.sendbutton.background.disable" android:layout_width="58.95999dip" android:layout_height="33.98999dip" android:layout_alignParentRight="true" />
+            <ImageView android:background="@color/hsp.topbar.sendbutton.line.disable" android:layout_width="0.6700001dip" android:layout_height="fill_parent" android:layout_toLeftOf="@id/hsp.topbar.sendbutton.text.disable" />
+            <ImageView android:background="@color/hsp.topbar.sendbutton.line.disable" android:layout_width="fill_parent" android:layout_height="0.6700001dip" android:layout_below="@id/hsp.topbar.sendbutton.text.disable" />
+        </RelativeLayout>
+        <ImageView android:background="@color/hsp.common.black" android:layout_width="0.6700001dip" android:layout_height="fill_parent" android:layout_toLeftOf="@id/hsp.topbar.sendbutton.text.layout.disable" />
+        <ImageView android:background="@color/hsp.common.black" android:layout_width="fill_parent" android:layout_height="0.6700001dip" android:layout_below="@id/hsp.topbar.sendbutton.text.layout.disable" />
+    </RelativeLayout>
+</RelativeLayout>
