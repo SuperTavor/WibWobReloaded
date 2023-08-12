@@ -1,0 +1,6 @@
+august 11th
+made branch
+
+august 12th
+allowed full compilation
+commented all calls to methods inside toast folder from MainActivity
