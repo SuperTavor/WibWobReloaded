@@ -2957,13 +2957,28 @@
 
     const/4 v9, 0x1
 
-    invoke-static {v8, v4, v7, v0, v9}, Lcom/toast/android/analytics/GameAnalytics;->initializeSdk(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Z)I
+    # old game analytics from toast folder
+    #invoke-static {v8, v4, v7, v0, v9}, Lcom/toast/android/analytics/GameAnalytics;->initializeSdk(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Z)I
+
+
+    const-string v10, "TAG"
+
+    const-string v11, "initializeSdk called"
+    #printing inside logcat
+    invoke-static {v10, v11}, Landroid/util/Log;->i(Ljava/lang/String;Ljava/lang/String;)I
 
     move-result v4
 
     const/4 v7, 0x0
 
-    invoke-static {v7}, Lcom/toast/android/analytics/GameAnalytics;->setDebugMode(Z)V
+    # old setdebugmode from toast folder
+    #invoke-static {v7}, Lcom/toast/android/analytics/GameAnalytics;->setDebugMode(Z)V
+
+    const-string v10, "TAG"
+
+    const-string v11, "setDebugMode called"
+    # printing inside logcat
+    invoke-static {v10, v11}, Landroid/util/Log;->i(Ljava/lang/String;Ljava/lang/String;)I
 
     sget-object v7, Lcom/example/sgf/MainActivity;->a:Ljava/lang/String;
 
@@ -2977,7 +2992,14 @@
 
     move-result-object v8
 
-    invoke-static {v4}, Lcom/toast/android/analytics/GameAnalytics;->getResultMessage(I)Ljava/lang/String;
+    # old getResultMessage from toast folder
+    #invoke-static {v4}, Lcom/toast/android/analytics/GameAnalytics;->getResultMessage(I)Ljava/lang/String;
+
+    const-string v10, "TAG"
+
+    const-string v11, "getResultMessage called"
+    #printing inside logcat
+    invoke-static {v10, v11}, Landroid/util/Log;->i(Ljava/lang/String;Ljava/lang/String;)I
 
     move-result-object v4
 
@@ -3129,13 +3151,28 @@
 
     const/4 v9, 0x1
 
-    invoke-static {v8, v4, v7, v0, v9}, Lcom/toast/android/analytics/GameAnalytics;->initializeSdk(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Z)I
+    # old method initializeSdk from toast
+    #invoke-static {v8, v4, v7, v0, v9}, Lcom/toast/android/analytics/GameAnalytics;->initializeSdk(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Z)I
+
+
+    const-string v10, "TAG"
+
+    const-string v11, "initializeSdk called"
+    # printing inside logcat
+    invoke-static {v10, v11}, Landroid/util/Log;->i(Ljava/lang/String;Ljava/lang/String;)I
 
     move-result v4
 
     const/4 v7, 0x1
 
-    invoke-static {v7}, Lcom/toast/android/analytics/GameAnalytics;->setDebugMode(Z)V
+    # old method setDebugMode from toast
+    #invoke-static {v7}, Lcom/toast/android/analytics/GameAnalytics;->setDebugMode(Z)V
+
+    const-string v10, "TAG"
+
+    const-string v11, "setDebugMode called"
+    # printing inside logcat
+    invoke-static {v10, v11}, Landroid/util/Log;->i(Ljava/lang/String;Ljava/lang/String;)I
 
     sget-object v7, Lcom/example/sgf/MainActivity;->a:Ljava/lang/String;
 
@@ -3149,7 +3186,14 @@
 
     move-result-object v8
 
-    invoke-static {v4}, Lcom/toast/android/analytics/GameAnalytics;->getResultMessage(I)Ljava/lang/String;
+    # old method getResultMessage from toast
+    #invoke-static {v4}, Lcom/toast/android/analytics/GameAnalytics;->getResultMessage(I)Ljava/lang/String;
+
+    const-string v10, "TAG"
+
+    const-string v11, "getResultMessage called"
+    # printing inside logcat
+    invoke-static {v10, v11}, Landroid/util/Log;->i(Ljava/lang/String;Ljava/lang/String;)I
 
     move-result-object v4
 
@@ -3532,7 +3576,14 @@
     invoke-static {p0}, Lcom/example/util/bi;->a(Landroid/content/Context;)V
 
     :cond_1
-    invoke-static {p0}, Lcom/toast/android/analytics/GameAnalytics;->traceActivation(Landroid/app/Activity;)I
+    # old method traceActivation from toast folder
+    #invoke-static {p0}, Lcom/toast/android/analytics/GameAnalytics;->traceActivation(Landroid/app/Activity;)I
+
+    const-string v10, "TAG"
+
+    const-string v11, "traceActivation called"
+    # printing inside logcat
+    invoke-static {v10, v11}, Landroid/util/Log;->i(Ljava/lang/String;Ljava/lang/String;)I
 
     return-void
 .end method
@@ -3572,7 +3623,16 @@
     invoke-virtual {v0}, Lcom/google/android/gms/common/api/GoogleApiClient;->disconnect()V
 
     :cond_1
-    invoke-static {p0}, Lcom/toast/android/analytics/GameAnalytics;->traceDeactivation(Landroid/app/Activity;)I
+    #old method traceDeactivation from toast folder
+    #invoke-static {p0}, Lcom/toast/android/analytics/GameAnalytics;->traceDeactivation(Landroid/app/Activity;)I
+
+
+    const-string v10, "TAG"
+
+    const-string v11, "traceDeactivation called"
+
+    # printing inside logcat
+    invoke-static {v10, v11}, Landroid/util/Log;->i(Ljava/lang/String;Ljava/lang/String;)I
 
     return-void
 .end method

@@ -1,5 +1,0 @@
-august 11th
-made branch
-
-august 12th
-allowed full compilation
